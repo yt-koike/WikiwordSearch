@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Author: yt-koike
 # https://github.com/yt-koike
 import cgi
